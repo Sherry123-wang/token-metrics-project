@@ -18,7 +18,7 @@ This project implements a binary classification system to predict whether crypto
 ### Prerequisites
 
 - Python 3.7+
-- Jupyter Notebook (or Google Colab)
+- Google Colab)
 
 ### Installation
 
